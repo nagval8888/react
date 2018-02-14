@@ -1,0 +1,22 @@
+{
+  "name": "react-project",
+  "version": "1.0.0",
+  "description": "react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nagval8888/react.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Sergei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nagval8888/react/issues"
+  },
+  "homepage": "https://github.com/nagval8888/react#readme"
+}
