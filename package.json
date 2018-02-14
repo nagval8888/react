@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/nagval8888/react/issues"
   },
-  "homepage": "https://github.com/nagval8888/react#readme"
+  "homepage": "https://github.com/nagval8888/react#readme",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
 }
